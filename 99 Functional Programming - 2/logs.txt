@@ -1,0 +1,6 @@
+Function factorial_for executed with input arg 5 on 2023-09-12 00:19:53.489590
+Function factorial_while executed with input arg 20 on 2023-09-12 00:19:54.025929
+Function factorial_for executed with input arg 5 on 2023-09-12 00:20:17.304946
+Function factorial_while executed with input arg 20 on 2023-09-12 00:20:17.666509
+Function factorial_while executed with input arg 20 on 2023-09-12 00:22:23.579164
+Function factorial_while executed with input arg 20 on 2023-09-12 00:22:31.874697
