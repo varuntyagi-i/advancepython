@@ -1,0 +1,5 @@
+1. functional programming - 2, 
+	assignment: ques. 4
+	additional: ques. 1
+	
+__call__ dunder method
